@@ -107,17 +107,17 @@ Install Speech-Emotion-Recognition-Using-Feature-Extraction using one of the fol
 
 1. Clone the Speech-Emotion-Recognition-Using-Feature-Extraction repository:
 ```sh
-❯ git clone https://github.com/iCELAKE01/Speech-Emotion-Recognition-Using-Feature-Extraction
+ git clone https://github.com/iCELAKE01/Speech-Emotion-Recognition-Using-Feature-Extraction
 ```
 
 2. Navigate to the project directory:
 ```sh
-❯ cd Speech-Emotion-Recognition-Using-Feature-Extraction
+ cd Speech-Emotion-Recognition-Using-Feature-Extraction
 ```
 
 3. Install the project dependencies:
 ```sh
-> pip install -r requirements.txt
+ pip install -r requirements.txt
 ```
 
 
