@@ -116,9 +116,9 @@ Install Speech-Emotion-Recognition-Using-Feature-Extraction using one of the fol
 ```
 
 3. Install the project dependencies:
-
-pip install -r requirements.txt
-
+```sh
+>pip install -r requirements.txt
+```
 
 
 ###  Usage
