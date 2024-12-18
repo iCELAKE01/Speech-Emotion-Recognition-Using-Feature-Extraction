@@ -172,7 +172,7 @@ This project is protected under the [SELECT-A-LICENSE](https://choosealicense.co
 ##  Acknowledgments
 
 - We acknowledge the use of the following datasets:
-1. RAVDESS: made available through DOI: 10.34740/kaggle/dsv/256618. The dataset has been instrumental in supporting this research.
+1. Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS)
 2. Crowd Sourced Emotional Multimodal Actors Dataset (CREMA-D)
 3. Surrey Audio-Visual Expressed Emotion (SAVEE)
 4. Toronto emotional speech set (TESS)
