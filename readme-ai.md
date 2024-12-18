@@ -96,7 +96,7 @@ The file is part of a larger architecture that includes data handling scripts, m
 
 Before getting started with Speech-Emotion-Recognition-Using-Feature-Extraction, ensure your runtime environment meets the following requirements:
 
-- **Programming Language:** JupyterNotebook
+- **Programming Language:** Python
 
 
 ###  Installation
@@ -119,24 +119,6 @@ Install Speech-Emotion-Recognition-Using-Feature-Extraction using one of the fol
 ```sh
  pip install -r requirements.txt
 ```
-
-
-###  Usage
-Run Speech-Emotion-Recognition-Using-Feature-Extraction using the following command:
-echo 'INSERT-RUN-COMMAND-HERE'
-
-###  Testing
-Run the test suite using the following command:
-echo 'INSERT-TEST-COMMAND-HERE'
-
----
-##  Project Roadmap
-
-- [X] **`Task 1`**: <strike>Implement feature one.</strike>
-- [ ] **`Task 2`**: Implement feature two.
-- [ ] **`Task 3`**: Implement feature three.
-
----
 
 ##  Contributing
 
@@ -189,6 +171,9 @@ This project is protected under the [SELECT-A-LICENSE](https://choosealicense.co
 
 ##  Acknowledgments
 
-- List any resources, contributors, inspiration, etc. here.
-
+- We acknowledge the use of the following datasets:
+1. RAVDESS: made available through DOI: 10.34740/kaggle/dsv/256618. The dataset has been instrumental in supporting this research.
+2. Crowd Sourced Emotional Multimodal Actors Dataset (CREMA-D)
+3. Surrey Audio-Visual Expressed Emotion (SAVEE)
+4. Toronto emotional speech set (TESS)
 ---
